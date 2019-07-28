@@ -8,6 +8,8 @@ gem 'rails', '~> 5.2.3'
 # Use Puma as the app server
 gem 'bcrypt', '~> 3.1.7'
 gem 'puma', '~> 3.11'
+gem 'will_paginate', '3.1.7'
+gem 'bootstrap-will_paginate', '1.0.0'
 # Use SCSS for stylesheets
 gem 'bootstrap', '~> 4.3.1'
 gem 'jquery-rails'
